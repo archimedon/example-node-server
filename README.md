@@ -1,3 +1,16 @@
+# Using node --inspect, nodemon --inspect
+
+### Server-side Debugging and Inspecting with Chrome DevTools
+
+* Use `npm run dev` for local debugging.
+* Open `chrome://inspect` in Chrome Browser
+* Click on `Open dedicated DevTools for Node`
+* Set breakpoints and reap
+
+
+---------
+(forked originally from)
+
 # Example Node Server w/ Babel
 
 ### Getting Started
